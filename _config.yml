@@ -1,6 +1,6 @@
 # general configuration
 url: http://rmalecky.githubpage.io/
-baseurl: ''
+baseurl: 'zacharyherz'
 
 # compass configuration
 compass:
