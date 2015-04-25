@@ -1,6 +1,6 @@
 # general configuration
 url: http://rmalecky.githubpage.io/
-#baseurl: 'zacharyherz'
+baseurl: zacharyherz
 
 # compass configuration
 compass:
@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Zachary Herz"
   # tagline will appear under the title (optional)
-  tagline: "Your home on the internet for new, gossip and liable about Zachary Herz"
+  tagline: "Your home on the internet for new, gossip and liable about Zachary Herz1"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
