@@ -1,5 +1,5 @@
 # general configuration
-url: http://malecky.com
+url: https://www.malecky.com
 baseurl: ''
 
 # compass configuration
@@ -24,4 +24,3 @@ highlighter: pygments
 
 # Permalinks
 permalink: pretty
-relative_permalinks: true
